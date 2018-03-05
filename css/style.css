@@ -19,14 +19,24 @@ p,ul li,ol li{
     width: 25%;
 
 	}
+.columntop {
+
+    width: 40%;
+
+	}
 .column1{
 font-family: 'Open Sans', sans-serif;
     width: 80%;
 border: 1px solid #99cc00;
 }
+.column6{
+font-family: 'Open Sans', sans-serif;
+    width: 40%;
+border: 1px solid #99cc00;
+}
 .column2{
 width: 60%;
-    float: center;
+
 border-top: 1px solid black;
 border-left: 1px solid black;
 border-right: 1px solid black;
@@ -34,6 +44,12 @@ border-right: 1px solid black;
 .column3 {
     float: left;
     width: 50%;
+
+	}
+}
+.column5 {
+
+    width: 40%;
 
 	}
 .col4{

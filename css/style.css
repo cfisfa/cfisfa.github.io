@@ -28,11 +28,13 @@ p,ul li,ol li{
 font-family: 'Open Sans', sans-serif;
     width: 80%;
 border: 1px solid #99cc00;
+ border-radius: 5px;
 }
 .column6{
 font-family: 'Open Sans', sans-serif;
     width: 40%;
 border: 1px solid #99cc00;
+ border-radius: 5px;
 }
 .column2{
 width: 60%;
